@@ -16,4 +16,7 @@
     <string name="realizar_pagamento">Realizar pagamento</string>
     <string name="preco_final">Preço final:</string>
     <string name="imagem_do_pacote">Imagem do pacote</string>
+    <string name="parabens">Parabéns!</string>
+    <string name="confira_o_resumo_da_compra">Confira o resumo da compra:</string>
+    <string name="compra_realizada_com_sucesso">Compra realizada com sucesso :)</string>
 </resources>
